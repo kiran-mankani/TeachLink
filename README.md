@@ -121,6 +121,8 @@ npm run dev
 Add screenshots here:
 
 - Home Page
+  <img width="525" height="401" alt="image" src="https://github.com/user-attachments/assets/67aaa76a-9893-44fa-bab3-5c833d37f16b" />
+
 - Login Page
 - Student Dashboard
 - Teacher Dashboard
