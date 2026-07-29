@@ -121,14 +121,17 @@ npm run dev
 Add screenshots here:
 
 - Home Page
-  <img width="525" height="401" alt="image" src="https://github.com/user-attachments/assets/67aaa76a-9893-44fa-bab3-5c833d37f16b" />
+  <img width="1892" height="857" alt="Screenshot 2026-07-29 192241" src="https://github.com/user-attachments/assets/8469b035-6698-401a-883b-e07bc971037e" />
+
 
 - Login Page
+  <img width="1916" height="916" alt="Screenshot 2026-07-29 192648" src="https://github.com/user-attachments/assets/ea99c9ae-1cf0-41d5-a2bf-3f99cc13a2ef" />
+
 - Student Dashboard
+  <img width="1891" height="916" alt="Screenshot 2026-07-29 192847" src="https://github.com/user-attachments/assets/2f089683-85ca-4dee-8d1b-d5122234ff40" />
+
 - Teacher Dashboard
-- Admin Dashboard
-- Chat System
-- AI Recommendation
+  <img width="1897" height="862" alt="Screenshot 2026-07-29 193004" src="https://github.com/user-attachments/assets/af982fdf-9bc7-4867-8cb2-63a265b13d3d" />
 
 ---
 
