@@ -122,7 +122,9 @@ Add screenshots here:
 
 - Home Page
   <img width="1892" height="857" alt="Screenshot 2026-07-29 192241" src="https://github.com/user-attachments/assets/8469b035-6698-401a-883b-e07bc971037e" />
-
+  
+- SignUp Page
+  <img width="1900" height="872" alt="Screenshot 2026-07-29 192548" src="https://github.com/user-attachments/assets/8c8d379b-5569-490b-af63-b42d6e1e804c" />
 
 - Login Page
   <img width="1916" height="916" alt="Screenshot 2026-07-29 192648" src="https://github.com/user-attachments/assets/ea99c9ae-1cf0-41d5-a2bf-3f99cc13a2ef" />
